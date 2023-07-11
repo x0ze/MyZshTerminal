@@ -120,7 +120,7 @@ setopt share_history
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias code="/usr/share/codium/codium --unity-launch %F &"
+alias code="/usr/share/codium/codium"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
